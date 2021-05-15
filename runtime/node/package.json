@@ -23,7 +23,7 @@
     "botbuilder-dialogs-adaptive": "4.12.0-rc3-preview",
     "botbuilder-dialogs-declarative": "4.12.0-rc3-preview",
     "debug": "^4.1.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "minimist": "1.2.5",
     "restify": "8.5.1"
   },
